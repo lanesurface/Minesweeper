@@ -1,0 +1,5 @@
+# Eclipse directories and configuration files.
+.settings/
+
+.project
+.classpath
