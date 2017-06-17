@@ -3,3 +3,10 @@
 
 .project
 .classpath
+
+# Ignore generated class files
+bin/
+
+# Not sure what hooks is, but it takes over the repository with shell scripts.
+hooks/
+info/
